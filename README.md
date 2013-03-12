@@ -3,6 +3,8 @@ jsonHtml
 
 About flow from javascript to php using json
 
+This flow is for those coders who want to sent data in JSON format from Javascript using Ajax ,want to manipulate the json data on php page, and again receive the data in Javascript in JSON format
+
 Step1: Data is stored in array in using javascript on Index.php
 
 Step2: Array is converted into json format using JSON.strignify on Index.php
